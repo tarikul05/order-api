@@ -1,0 +1,13 @@
+{
+	"authors": [
+        {
+            "name": "Tarikul Islam",
+            "email": "islm90@gmail.com",
+            "homepage": "http://tarikul.com/",
+            "role": "Web Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"App\\": "src"}
+    }
+}
